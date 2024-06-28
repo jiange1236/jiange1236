@@ -1,4 +1,4 @@
-## Hi there 👋
+![Metrics](/github-metrics.svg)
 
 <!--
 **jiange1236/jiange1236** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
