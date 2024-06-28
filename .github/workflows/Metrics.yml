@@ -23,7 +23,7 @@ jobs:
           base: header, activity, community, repositories, metadata
           # Core
           user: jiange1236
-          template: "@classic"
+          template: classic
           config_display: large
           config_timezone: Asia/Shanghai
           # Plugins
