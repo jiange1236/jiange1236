@@ -41,4 +41,4 @@ jobs:
           plugin_topics_mode: starred
           plugin_topics_sort: stars
           # Social plugins
-          plugin_pagespeed: yes
+          # plugin_pagespeed: yes
